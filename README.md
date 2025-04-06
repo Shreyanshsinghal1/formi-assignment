@@ -146,9 +146,3 @@ Content-Type: application/json
 
 ---
 
-## 🌟 Author
-
-**Built by [Your Name]** for Formi's SDE assignment.
-
-Feel free to improve or customize this API further!
-
